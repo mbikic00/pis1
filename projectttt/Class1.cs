@@ -7,5 +7,9 @@ namespace projectttt
 {
     class Class1
     {
+        static void Main(string[] args)
+        {
+            
+        }
     }
 }
